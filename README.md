@@ -1,6 +1,7 @@
 ## front-end
 
 yarn install
+
 yarn build
 
 ## docker
